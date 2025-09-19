@@ -1,7 +1,3 @@
-추가 설명서 구조를 반영해 과제 Readme를 확장했습니다. `knn.ipynb` 파일을 확인했는데, 코드와 실험 결과가 담겨 있어 실행/보고 부분을 포함하는 게 적절합니다. 아래에 제안된 완성본을 드립니다.
-
----
-
 # Deep learning 25\_2 : Assignment Readme
 
 This repository contains my solutions to the assignments of the Deep Learning class offered by Professor Heewon Kim at Soongsil University (2nd semester, 2025).
