@@ -36,7 +36,7 @@ pip install Pillow==11.3.0
 
 1. **kNN 분류기 구현**
 
-   * KNearestNeighbor Class 참고 ([k\_nearest\_neighbor.py](https://github.com/SSU-Reality-Lab/deep_learning_25_2-week-1-knn-assignment-DL_2025_2/blob/master/k_nearest_neighbor.py))
+   * KNearestNeighbor Class 참고 ([k\_nearest\_neighbor.py](https://github.com/SSU-Reality-Lab/deep_learning_25_2-week-1-knn-assignment-DL_2025_2/blob/master/k_nn.py))
    * `compute_distances_two_loops`: 이중 반복문으로 거리 계산
    * `compute_distances_one_loop`: 반복문 하나만 사용
    * `compute_distances_no_loops`: 완전 벡터화 연산으로 거리 계산
@@ -69,7 +69,7 @@ jupyter notebook knn.ipynb
 * 본 reop를 본인 컴퓨터에 git pull하시고 k_nn.py과 knn.ipynb를 완성하시오.
 * 그 다음 output 폴더 하나를 생성하시고 실습한 k_nn.py과 실행 로그가 담겨있는 knn.ipynb을 제출하시요.
 * git push를 하면 자동으로 과제가 제출됩니다.
-
+**class room 제출 방법** : [https://github.com/WE-SOPT-29th-Web-Part/notice-by-Euijin-Kim] 참고
 ---
 
 ## ❓ 질문 방법
